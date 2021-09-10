@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: cyan;
+ }
+ nav{
+     text-align: center;
+ }
+ .easy{
+     background-color: deepskyblue;
+ }
+ .hard{
+     background-color: firebrick;
+ }
+ #table1{
+     margin-left: auto;
+     margin-right: auto;
+     border: solid;
+     width: 50%;
+ }
+ #foot{
+     background-color: midnightblue;
+     text-align: center;
+    }
+ .q1{
+     background-color: fuchsia;
+ }
+ .q2{
+     background-color: green;
+ }
+ .q3{
+     background-color: greenyellow;
+ }
+ .q4{
+     background-color: khaki;
+ }
+ .q5{
+     background-color: indigo;
+ }
+.q6{
+    background-color: lightcoral;
+}
+.q7{
+    background-color: lightslategrey;
+}
+.q8{
+    background-color: magenta;
+}
+
+
+
+
+
